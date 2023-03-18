@@ -1,0 +1,13 @@
+.github
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.node-version
+.npmignore
+.npmrc
+.prettierrc
+.release-please-manifest.json
+gha-creds-*.json
+package-lock.json
+release-please-config.json

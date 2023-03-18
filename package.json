@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "@dxopslab/browserslist-config",
+  "version": "0.0.0",
+  "license": "MPL-2.0",
+  "engines": {
+    "node": "^16.10.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
+  },
+  "publishConfig": {
+    "@dxopslab:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxopslab/browserslist-config.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .json"
+  },
+  "devDependencies": {
+    "browserslist": "4.21.5",
+    "eslint": "8.35.0",
+    "eslint-plugin-json": "3.1.0",
+    "prettier": "2.8.4"
+  },
+  "peerDependencies": {
+    "browserslist": "^4.20.0"
+  }
+}
