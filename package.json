@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "license": "MPL-2.0",
   "engines": {
-    "node": "^16.10.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
+    "node": "^18.0.0 || ^19.0.0 || ^20.0.0"
   },
   "publishConfig": {
     "@dxopslab:registry": "https://npm.pkg.github.com"
@@ -18,10 +18,10 @@
     "lint": "eslint . --ext .json"
   },
   "devDependencies": {
-    "browserslist": "4.21.5",
-    "eslint": "8.35.0",
+    "browserslist": "4.21.9",
+    "eslint": "8.43.0",
     "eslint-plugin-json": "3.1.0",
-    "prettier": "2.8.4"
+    "prettier": "2.8.8"
   },
   "peerDependencies": {
     "browserslist": "^4.20.0"
