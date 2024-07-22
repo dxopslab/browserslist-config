@@ -18,7 +18,7 @@
     "lint": "eslint . --ext .json"
   },
   "devDependencies": {
-    "browserslist": "4.23.1",
+    "browserslist": "4.23.2",
     "eslint": "8.57.0",
     "eslint-plugin-json": "3.1.0",
     "prettier": "3.3.3"
