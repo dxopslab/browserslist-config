@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "browserslist": "4.23.3",
-    "eslint": "8.57.0",
+    "eslint": "9.9.0",
     "eslint-plugin-json": "4.0.1",
     "prettier": "3.3.3"
   },
