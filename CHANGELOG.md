@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.0](https://github.com/dxopslab/browserslist-config/compare/v0.1.0...v0.2.0) (2024-11-11)
+
+
+### Features
+
+* drop node.js 18 & 19, add support for 21 & 22 ([f7d5311](https://github.com/dxopslab/browserslist-config/commit/f7d53118004ccab67d582612813fed41130e91e8))
+* migrate release process to googleapis/release-please-action ([936f2ff](https://github.com/dxopslab/browserslist-config/commit/936f2ff2c6a6f78b0ae99b4f979ffbfc0ef79973))
+
 ## [0.1.0](https://github.com/dxopslab/browserslist-config/compare/browserslist-config-v0.0.1...browserslist-config-v0.1.0) (2023-06-29)
 
 
