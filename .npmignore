@@ -8,6 +8,7 @@
 .npmrc
 .prettierrc
 .release-please-manifest.json
+eslint.config.mjs
 gha-creds-*.json
 package-lock.json
 release-please-config.json
