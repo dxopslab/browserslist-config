@@ -14,7 +14,7 @@
     "url": "git+https://github.com/dxopslab/browserslist-config.git"
   },
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "lint": "eslint ."
   },
