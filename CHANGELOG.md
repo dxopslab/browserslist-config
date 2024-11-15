@@ -5,7 +5,7 @@
 
 ### Miscellaneous Chores
 
-* release 0.3.1 ([d49fca2](https://github.com/dxopslab/browserslist-config/commit/d49fca21f52513a16432bb1fe3b311adb78084b7))
+* fix the "'module' is not defined" error ([0cea8e7](https://github.com/dxopslab/browserslist-config/commit/0cea8e70da2ceafaa821c4bef7e723b38f62a689))
 
 ## [0.3.0](https://github.com/dxopslab/browserslist-config/compare/browserslist-config-v0.2.0...browserslist-config-v0.3.0) (2024-11-15)
 
