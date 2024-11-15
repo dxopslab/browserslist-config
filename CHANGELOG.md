@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/dxopslab/browserslist-config/compare/browserslist-config-v0.2.0...browserslist-config-v0.3.0) (2024-11-15)
+
+
+### Features
+
+* change package type to commonjs ([14537e1](https://github.com/dxopslab/browserslist-config/commit/14537e15ad7ff3fb83cf5663f5eff41c656120ac))
+
 ## [0.2.0](https://github.com/dxopslab/browserslist-config/compare/v0.1.0...v0.2.0) (2024-11-11)
 
 
