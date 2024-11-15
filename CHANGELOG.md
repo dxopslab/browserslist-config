@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/dxopslab/browserslist-config/compare/browserslist-config-v0.2.0...browserslist-config-v0.3.0) (2024-11-15)
+
+
+### Miscellaneous Chores
+
+* release 0.3.0 ([301ed59](https://github.com/dxopslab/browserslist-config/commit/301ed592c39ba49068a085e74a51100bf9befee3))
+
 ## [0.2.0](https://github.com/dxopslab/browserslist-config/compare/v0.1.0...v0.2.0) (2024-11-11)
 
 
